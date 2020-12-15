@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>Film Fight</title>
+		<title>Movie Picker</title>
 		<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 		<link
 			rel="stylesheet"
@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body>
-		<section class="hero is-info is-bold">
+		<section class="hero is-info is-bold is-bold">
 			<div class="hero-body">
 				<div class="container">
 					<h1 class="title has-text-centered">
@@ -32,8 +32,11 @@
 			</div>
 		</section>
 		<div class="container">
-			<input type="text" />
+			<div class="autocomplete"></div>
+			<div id="summary"></div>
 		</div>
+		<script src="utils.js"></script>
+		<script src="autocomplete.js"></script>
 		<script src="index.js"></script>
 	</body>
 </html>
