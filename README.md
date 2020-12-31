@@ -8,7 +8,7 @@ Watch demo:
 
 API used: [OMDb API](http://www.omdbapi.com/)
 
-The app accesses third-party data from an external API, transforms it, renders a reusable autocomplete widget removed from the HTML file, and displays the parsed data in appropriate format.
+The app accesses third-party data from an external API, transforms it, renders a reusable autocomplete widget removed from the HTML file, and displays the parsed data in an appropriate format.
 
 In short, the following components interact to deliver the expected results:
 
