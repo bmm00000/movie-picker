@@ -1,6 +1,6 @@
 # Summary
 
-"Movie Picker" is a movie comparison website, where the user can introduce two movie titles and receive a color-based comparison between data from both movies.
+"Movie Picker" is a movie comparison website, where the user can introduce two movie titles and receive a color-based comparison between data from both movies. The data from the "winner" movie will be displayed in green, whereas the data from the other movie will be displayed in red.
 
 See live:
 
