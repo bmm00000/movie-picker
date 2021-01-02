@@ -4,7 +4,7 @@
 
 See live:
 
-Watch demo:
+[Watch demo](https://www.loom.com/share/870b2ce5e7e7457aafd337142f3a37b9)
 
 API used: [OMDb API](http://www.omdbapi.com/)
 
